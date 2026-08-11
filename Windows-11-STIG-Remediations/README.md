@@ -8,7 +8,7 @@ validated, remediated using PowerShell, and rescanned to confirm compliance.
 
 ## Remediation Process
 
-1. Identify STIG finding through vulnerability scanning
+1. Identify STIG finding through vulnerability scanning with Tenable
 2. Review the DISA STIG requirement
 3. Validate the finding on the Windows 11 endpoint
 4. Develop a PowerShell remediation
@@ -34,12 +34,15 @@ validated, remediated using PowerShell, and rescanned to confirm compliance.
 ## Technologies
 
 - Windows 11
+- Microsoft Azure
+- Tenable Nessus Scanner
 - PowerShell
 - DISA STIGs
 - Windows Registry
 - Group Policy
 - Windows Security Configuration
 - Vulnerability Management
+- Tenable
 
 ## Skills Demonstrated
 
