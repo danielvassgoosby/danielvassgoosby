@@ -5,6 +5,25 @@ I'm passionate about cybersecurity and thoroughly enjoy tackling complex challen
 
 ## ⚠️ Vulnerability Management Projects
 
+## 🛡️ Cybersecurity Projects
+
+### Windows 11 DISA STIG Remediation
+
+Hands-on Windows 11 security-hardening project focused on identifying,
+validating, and remediating DISA STIG findings using PowerShell.
+
+**What I did:**
+- Analyzed Windows 11 DISA STIG findings
+- Validated vulnerabilities before remediation
+- Developed PowerShell remediation scripts
+- Modified registry, account, authentication, and security policies
+- Verified configurations after remediation
+- Rescanned endpoints to confirm compliance
+
+**Technologies:** PowerShell | Windows 11 | DISA STIG | Group Policy |
+Windows Registry | Vulnerability Management
+
+- **[Windows 11 DISA STIG Remediations](https://github.com/danielvassgoosby/danielvassgoosby/tree/main/Windows-11-STIG-Remediations)**
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
