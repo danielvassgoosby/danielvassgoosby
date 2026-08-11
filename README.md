@@ -5,8 +5,6 @@ I'm passionate about cybersecurity and thoroughly enjoy tackling complex challen
 
 ## ⚠️ Vulnerability Management Projects
 
-## 🛡️ Cybersecurity Projects
-
 ### Windows 11 DISA STIG Remediation
 
 Hands-on Windows 11 security-hardening project focused on identifying,
