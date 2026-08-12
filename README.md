@@ -20,6 +20,29 @@ validating, and remediating DISA STIG findings using PowerShell.
 
 **Technologies:** PowerShell | Windows 11 | DISA STIG | Group Policy |
 Windows Registry | Vulnerability Management
+### Vulnerability Management Program Implementation
+
+Hands-on vulnerability management project focused on identifying, prioritizing,
+remediating, and validating vulnerabilities on a Windows Server 2025 environment.
+
+**What I did:**
+
+- Provisioned and intentionally configured a vulnerable Windows Server 2025 VM in Azure
+- Performed authenticated vulnerability scans using Tenable Vulnerability Management
+- Analyzed and prioritized Critical, High, Medium, and Low severity findings
+- Applied Windows OS updates and security patches
+- Used PowerShell to remediate insecure Windows configurations
+- Removed outdated and vulnerable Wireshark/WinPcap software
+- Removed the Guest account from the Administrators group and disabled the account
+- Enabled SMB signing and RDP Network Level Authentication (NLA)
+- Disabled legacy LM/NTLMv1 authentication
+- Rescanned the server to validate remediation effectiveness
+- Reduced vulnerabilities from 23 to 3, an 87% reduction
+- Eliminated 100% of Critical and High-severity findings
+
+**Technologies:** Tenable Vulnerability Management | PowerShell | Windows Server 2025 |
+Microsoft Azure | Windows Registry | SMB | RDP/NLA | Vulnerability Management
+
 
 - **[Windows 11 DISA STIG Remediations](https://github.com/danielvassgoosby/danielvassgoosby/tree/main/Windows-11-STIG-Remediations)**
 - **[Vulnerability Management Program Implementation](https://github.com/danielvassgoosby/vulnerability-management-program)**
