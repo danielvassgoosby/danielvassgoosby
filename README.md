@@ -46,7 +46,7 @@ Microsoft Azure | Windows Registry | SMB | RDP/NLA | Vulnerability Management
 
 - **[Windows 11 DISA STIG Remediations](https://github.com/danielvassgoosby/danielvassgoosby/tree/main/Windows-11-STIG-Remediations)**
 - **[Vulnerability Management Program Implementation](https://github.com/danielvassgoosby/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/danielvassgoosby/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/danielvassgoosby/danielvassgoosby/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
