@@ -22,7 +22,7 @@ validating, and remediating DISA STIG findings using PowerShell.
 Windows Registry | Vulnerability Management
 
 - **[Windows 11 DISA STIG Remediations](https://github.com/danielvassgoosby/danielvassgoosby/tree/main/Windows-11-STIG-Remediations)**
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/danielvassgoosby/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
