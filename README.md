@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/joshmadakor/">Daniel Vass-Goosby</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com">Daniel Vass-Goosby</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and thoroughly enjoy tackling complex challenges through hands-on projects, from vulnerability management to threat detection, which allow me to deep dive into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
