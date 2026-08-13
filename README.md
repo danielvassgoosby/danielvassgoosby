@@ -7,8 +7,6 @@ I'm passionate about cybersecurity and thoroughly enjoy tackling complex challen
 
 ### Threat Hunts
 
-**About This Repository**
-
 This repository documents hands-on threat hunting and incident investigations conducted in simulated enterprise environments. Each investigation focuses on identifying suspicious activity, validating security alerts, reconstructing attacker behavior, and following evidence across cloud and on-premises systems.
 
 The investigations demonstrate practical experience with:
