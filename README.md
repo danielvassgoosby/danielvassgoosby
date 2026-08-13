@@ -5,6 +5,30 @@ I'm passionate about cybersecurity and thoroughly enjoy tackling complex challen
 
 ## ⚠️ Cybersecurity Projects
 
+### Threat Hunts
+
+**About This Repository**
+
+This repository documents hands-on threat hunting and incident investigations conducted in simulated enterprise environments. Each investigation focuses on identifying suspicious activity, validating security alerts, reconstructing attacker behavior, and following evidence across cloud and on-premises systems.
+
+The investigations demonstrate practical experience with:
+
+- Microsoft Defender XDR and Advanced Hunting
+- Microsoft Sentinel and Log Analytics
+- Microsoft Defender for Identity
+- Microsoft Entra ID
+- Windows and Active Directory security telemetry
+- Kusto Query Language (KQL)
+- Indicators of Compromise (IOC) identification
+- Attack timeline reconstruction
+- MITRE ATT&CK mapping
+- Incident triage and investigation
+- Detection and telemetry gap analysis
+- Evidence-based security reporting
+
+Each threat hunt includes the investigation methodology, relevant KQL queries, findings, MITRE ATT&CK techniques, and a formal investigation report where applicable.
+
+The goal of this repository is to demonstrate the ability to move beyond individual security alerts and use available telemetry to reconstruct attacker activity, distinguish legitimate behavior and false positives from malicious activity, and develop defensible conclusions based on evidence.
 ### Windows 11 DISA STIG Remediation
 
 Hands-on Windows 11 security-hardening project focused on identifying,
@@ -20,6 +44,7 @@ validating, and remediating DISA STIG findings using PowerShell.
 
 **Technologies:** PowerShell | Windows 11 | DISA STIG | Group Policy |
 Windows Registry | Vulnerability Management
+
 ### Vulnerability Management Program Implementation
 
 Hands-on vulnerability management project focused on identifying, prioritizing,
@@ -44,6 +69,7 @@ remediating, and validating vulnerabilities on a Windows Server 2025 environment
 Microsoft Azure | Windows Registry | SMB | RDP/NLA | Vulnerability Management
 
 
+- **[Threat Hunting & Incident Investigations](https://github.com/danielvassgoosby/threat-hunts)**
 - **[Windows 11 DISA STIG Remediations](https://github.com/danielvassgoosby/danielvassgoosby/tree/main/Windows-11-STIG-Remediations)**
 - **[Vulnerability Management Program Implementation](https://github.com/danielvassgoosby/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/danielvassgoosby/danielvassgoosby/tree/main/programmatic-vulnerability-remediations-main)**
