@@ -69,14 +69,14 @@ remediating, and validating vulnerabilities on a Windows Server 2025 environment
 Microsoft Azure | Windows Registry | SMB | RDP/NLA | Vulnerability Management
 
 
-- **[Threat Hunting & Incident Investigations](https://github.com/danielvassgoosby/threat-hunts)**
+
 - **[Windows 11 DISA STIG Remediations](https://github.com/danielvassgoosby/danielvassgoosby/tree/main/Windows-11-STIG-Remediations)**
 - **[Vulnerability Management Program Implementation](https://github.com/danielvassgoosby/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/danielvassgoosby/danielvassgoosby/tree/main/programmatic-vulnerability-remediations-main)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting & Incident Investigations](https://github.com/danielvassgoosby/threat-hunts)**
 
 <hr/>
 
